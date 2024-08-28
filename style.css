@@ -1,9 +1,16 @@
+
+
 body{
    color:pink;
+   font-family: "Qwitcher Grypen", cursive;
    background: black;
 
-   margin: 0px;
 }
+ header {
+border: solid 2px white
+margin: 0;
+ }
+  
 
 header {
 border-bottom: solid 2px rgb(153, 54, 219);
@@ -19,6 +26,7 @@ section{
   display: flex;
   justify-content: center;
 }
+
 .chamada-texto{
-  margin-right: 5%;
+   margin-right: 5%;
 }
