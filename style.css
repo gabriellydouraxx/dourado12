@@ -5,10 +5,11 @@ body{
    font-family: "Qwitcher Grypen", cursive;
    background: black;
 
+
 }
  header {
 border: solid 2px white
-margin: 0;
+margin: 0px;
  }
   
 
@@ -45,7 +46,8 @@ categoria-videos{
   overflow-x: auto;
   gap: 10px;
 }
-.categoria{
+.categoria-videos{
   padding-left: 20px;
   padding-right: 20px;
 }
+
